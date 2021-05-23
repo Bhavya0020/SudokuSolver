@@ -1,4 +1,4 @@
-# SudokuSolver
+<h1><u> SudokuSolver </u></h1>
 An Egyptian-themed Sudoku Solver built using PyGame.
 
 Instructions To Play The Game-
@@ -9,4 +9,5 @@ Instructions To Play The Game-
 5. On pressing the space bar the board will automatically solve itself.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BjL6yATxDm0/0.jpg)](https://www.youtube.com/watch?v=BjL6yATxDm0)
+
 A Video To demonstrate the working of Sudoku Solver
